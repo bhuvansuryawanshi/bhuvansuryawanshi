@@ -50,7 +50,7 @@
 ## Connect with me:
 
 <p align="left">
-  <a href = "https://www.instagram.com/"><img src="https://img.icons8.com/fluency/48/instagram-new.png"/></a>
+  <a href = "https://www.instagram.com/bhuvan_0715/"><img src="https://img.icons8.com/fluency/48/instagram-new.png"/></a>
 <a href = "[https://www.linkedin.com/in/ravindra55/](https://www.linkedin.com/in/bhuvan-suryawanshi-079951219/)"><img src="https://img.icons8.com/fluency/48/linkedin.png"/></a>
 
 </p>
