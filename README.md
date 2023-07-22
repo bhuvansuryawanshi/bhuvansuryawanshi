@@ -5,14 +5,9 @@
 </div>
 
 <h1 align="center">Hey 👋, I'm Suryawanshi Bhuvan</h1>
-<div align="center" style="text-align: center;">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&pause=1000&color=FFFFFF&width=700&lines=I'm+a+self-taught+passionate+Full-Stack+Developer+from+India." alt="Typing SVG" />
-    </a>
-</div>
 
 
-<h3 align="center">Passion for programming ❤️</h3>
+<h3 align="center">Passion for Programming ❤️</h3>
 <!-- <h4 align="center">My Portfolio: https://ravi-pawar-portfolio.netlify.app/ </h4> -->
 <div align="center">
 
