@@ -23,17 +23,17 @@
 
 - 🔭 I’m B.Tech computer enginnering student and Graduate in 2024. 
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Python and Front End Development**
 
-- 👨‍💻 All of my projects are available at **[My Github](https://github.com/vishpatil215?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[My Github](https://github.com/bhuvansuryawanshi)**
 
-- 📫 How to reach me **vishalgpatil215@gmail.com**
+- 📫 How to reach me **bhuvansuryawanshi0@gmail.com**
 
 ## Skills and Expertise
-- Proficient in HTML, CSS, JavaScript
-- Experienced in ReactJs, NodeJs
-- Familiar with MERN stack development
-- Worked with JSP,Servlet
+-  HTML, CSS, Bootstrap
+- Python Programming
+- C programming
+- Latex
 - Strong problem-solving skills and attention to detail
 
 
