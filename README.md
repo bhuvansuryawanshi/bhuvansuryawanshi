@@ -25,11 +25,12 @@
 - 📫 How to reach me **bhuvansuryawanshi0@gmail.com**
 
 ## Skills and Expertise
--  HTML, CSS, Bootstrap
-- Python Programming
-- C programming
+- Java Programming
+- JSP & Servlet
+- MySQL
+- HTML, CSS, Bootstrap
 - Latex
-- Strong problem-solving skills and attention to detail
+- 
 
 
 
