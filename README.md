@@ -25,12 +25,12 @@
 - 📫 How to reach me **bhuvansuryawanshi0@gmail.com**
 
 ## Skills and Expertise
+- HTML, CSS, Javascript Bootstrap
+- GSAP 
 - Java Programming
 - JSP & Servlet
 - MySQL
-- HTML, CSS, Bootstrap
 - Latex
-- 
 
 
 
@@ -40,7 +40,6 @@
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/html-5--v1.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://img.icons8.com/color/48/css3.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>  
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/visual-studio-code-2019.png"/> </a>
      &nbsp;
 </p>
