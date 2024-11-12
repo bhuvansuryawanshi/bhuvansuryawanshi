@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="#">
-    <img src="https://i.ibb.co/85p5fGx/my-avatar.png" alt="My Avatar">
-  </a>
-</div>
+
 
 <h1 align="center">Hey 👋, I'm Suryawanshi Bhuvan</h1>
 
