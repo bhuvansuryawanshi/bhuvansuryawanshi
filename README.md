@@ -12,7 +12,7 @@
 
 ## About Me
 
-- 🔭 I’m B.Tech computer enginnering student and Graduate in 2024. 
+- 🔭 I’m B.Tech Electronics and Telecommunication enginnering student and Graduate in 2024. 
 
 - 🌱 I’m currently Working on **Front End Development and Java **
 
