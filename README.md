@@ -21,7 +21,7 @@
 - 📫 How to reach me **bhuvansuryawanshi0@gmail.com**
 
 ## Skills and Expertise
-- HTML, CSS, Javascript Bootstrap
+- HTML, CSS, Javascript , Bootstrap, Tailwind
 - GSAP 
 - Java Programming
 - JSP & Servlet
